@@ -55,14 +55,14 @@ const iTunes = () => {
 
             {/* links to github and live code */}
             <a
-              href="https://github.com/willtech-1/iTunes"
+              href="https://github.com/willtech-1/itunes-app"
               target="_blank"
               rel="noreferrer"
             >
               <button className="px-8 py-2 mt-4 mr-8">Code</button>
             </a>
             <a
-              href="https://mighty-coast-92790.herokuapp.com/"
+              href="https://itunes-search-app.herokuapp.com/"
               target="_blank"
               rel="noreferrer"
             >
